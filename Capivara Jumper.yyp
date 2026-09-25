@@ -35,12 +35,18 @@
   },
   "name":"Capivara Jumper",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_plataforma_pai","path":"objects/obj_plataforma_pai/obj_plataforma_pai.yy",},},
+    {"id":{"name":"obj_plataforma","path":"objects/obj_plataforma/obj_plataforma.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
+    {"id":{"name":"bg_nuvens_jogo","path":"sprites/bg_nuvens_jogo/bg_nuvens_jogo.yy",},},
+    {"id":{"name":"spr_plataforma","path":"sprites/spr_plataforma/spr_plataforma.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
