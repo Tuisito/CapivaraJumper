@@ -1,0 +1,1 @@
+slots = [spr_player, spr_taman, spr_boto];

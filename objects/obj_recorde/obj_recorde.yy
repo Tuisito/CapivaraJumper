@@ -4,7 +4,9 @@
   "eventList":[],
   "managed":true,
   "name":"obj_recorde",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_opcoes_pai","path":"objects/obj_opcoes_pai/obj_opcoes_pai.yy",},"propertyId":{"name":"_room","path":"objects/obj_opcoes_pai/obj_opcoes_pai.yy",},"resource":{"name":"rm_recorde","path":"rooms/rm_recorde/rm_recorde.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_recorde",},
+  ],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",

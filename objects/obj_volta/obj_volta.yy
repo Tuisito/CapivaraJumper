@@ -4,12 +4,17 @@
   "eventList":[],
   "managed":true,
   "name":"obj_volta",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_opcoes_pai","path":"objects/obj_opcoes_pai/obj_opcoes_pai.yy",},"propertyId":{"name":"_room","path":"objects/obj_opcoes_pai/obj_opcoes_pai.yy",},"resource":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_menu",},
+  ],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_opcoes_pai",
+    "path":"objects/obj_opcoes_pai/obj_opcoes_pai.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -27,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_volta",
+    "path":"sprites/spr_volta/spr_volta.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

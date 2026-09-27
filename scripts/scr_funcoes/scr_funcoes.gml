@@ -1,6 +1,8 @@
 global.sprite = spr_player;
 global.pontos = 0;
 global.recorde = 0;
+global.acai = 0;
+global.comprado = [1, 0, 1];
 randomise();
 
 function sine_wave(time, period, amplitude, midpoint) {

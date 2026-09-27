@@ -5,6 +5,7 @@ sprite_index = global.sprite;
 gravity = .2;
 global.pontos = 0;
 vel     = 1.5;
+vspeed  = -7.7;
 inicia_efeito_mola();
 cam_y = y;
 cam_x = 0;
