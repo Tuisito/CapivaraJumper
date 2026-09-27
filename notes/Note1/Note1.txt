@@ -1,0 +1,5 @@
+Plataforma imóvel - Feito;
+Player - Feito;
+Plataformas móvel - Feito;
+Plataformas que caiem - Feito;
+Coletável - Ainda não;

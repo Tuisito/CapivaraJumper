@@ -1,6 +1,13 @@
+audio_play_sound(running, 100, 1);
+
 //Definindo a grávidade do meu objeto
-gravity = .05;
-vel     = 2;
+sprite_index = global.sprite;
+gravity = .2;
+global.pontos = 0;
+vel     = 1.5;
+inicia_efeito_mola();
+cam_y = y;
+cam_x = 0;
 
 //Criando o meu metódo de movimentação
 movimentacao = function()

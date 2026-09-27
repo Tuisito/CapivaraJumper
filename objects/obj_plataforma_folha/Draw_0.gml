@@ -1,0 +1,1 @@
+efeito_branco(desenha_efeito_mola);
